@@ -10,8 +10,8 @@
 ---
 
 ## Links
-* **Pitch Video:** [Watch on YouTube](PASTE_YOUR_YOUTUBE_LINK_HERE)
-* **Presentation Slides:** [View PPT](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+* **Pitch Video:** [Watch on YouTube](https://youtu.be/p7QB67KD8tc?si=Wsw88UgwOjJ2YP_a)
+* **Presentation Slides:** [View PPT](https://docs.google.com/presentation/d/1814zNomkJ2u_h6gB6fJZOImjcrocJwhN/edit?usp=sharing&ouid=103136086896643504001&rtpof=true&sd=true)
 
 ---
 
