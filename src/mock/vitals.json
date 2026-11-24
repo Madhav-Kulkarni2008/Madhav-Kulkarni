@@ -1,0 +1,509 @@
+{
+  "unitsNote": "All values are mock data for a prototype.",
+  "baseline": {
+    "restingHr": 66,
+    "hrv": 52,
+    "spo2": 98,
+    "sleep": 7.1,
+    "steps": 7500,
+    "stress": 35
+  },
+  "days": [
+    {
+      "date": "2026-10-26",
+      "restingHr": 64,
+      "avgHr": 79,
+      "hrv": 52,
+      "spo2": 98,
+      "sleep": 6.1,
+      "steps": 7354,
+      "stress": 29,
+      "anomaly": []
+    },
+    {
+      "date": "2026-10-27",
+      "restingHr": 66,
+      "avgHr": 78,
+      "hrv": 52,
+      "spo2": 97,
+      "sleep": 6,
+      "steps": 8936,
+      "stress": 40,
+      "anomaly": []
+    },
+    {
+      "date": "2026-10-28",
+      "restingHr": 65,
+      "avgHr": 77,
+      "hrv": 49,
+      "spo2": 97,
+      "sleep": 6.2,
+      "steps": 6372,
+      "stress": 39,
+      "anomaly": []
+    },
+    {
+      "date": "2026-10-29",
+      "restingHr": 68,
+      "avgHr": 80,
+      "hrv": 54,
+      "spo2": 97,
+      "sleep": 6.3,
+      "steps": 6472,
+      "stress": 40,
+      "anomaly": []
+    },
+    {
+      "date": "2026-10-30",
+      "restingHr": 66,
+      "avgHr": 80,
+      "hrv": 52,
+      "spo2": 97,
+      "sleep": 7.2,
+      "steps": 6083,
+      "stress": 42,
+      "anomaly": []
+    },
+    {
+      "date": "2026-10-31",
+      "restingHr": 67,
+      "avgHr": 78,
+      "hrv": 53,
+      "spo2": 98,
+      "sleep": 7.7,
+      "steps": 7239,
+      "stress": 32,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-01",
+      "restingHr": 65,
+      "avgHr": 77,
+      "hrv": 53,
+      "spo2": 97,
+      "sleep": 7.2,
+      "steps": 5303,
+      "stress": 29,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-02",
+      "restingHr": 65,
+      "avgHr": 80,
+      "hrv": 49,
+      "spo2": 97,
+      "sleep": 6.7,
+      "steps": 7966,
+      "stress": 27,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-03",
+      "restingHr": 66,
+      "avgHr": 79,
+      "hrv": 54,
+      "spo2": 97,
+      "sleep": 6.3,
+      "steps": 9584,
+      "stress": 29,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-04",
+      "restingHr": 65,
+      "avgHr": 75,
+      "hrv": 51,
+      "spo2": 98,
+      "sleep": 6,
+      "steps": 8919,
+      "stress": 39,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-05",
+      "restingHr": 64,
+      "avgHr": 76,
+      "hrv": 48,
+      "spo2": 98,
+      "sleep": 6.2,
+      "steps": 6898,
+      "stress": 34,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-06",
+      "restingHr": 64,
+      "avgHr": 78,
+      "hrv": 57,
+      "spo2": 97,
+      "sleep": 7.8,
+      "steps": 6955,
+      "stress": 37,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-07",
+      "restingHr": 66,
+      "avgHr": 80,
+      "hrv": 51,
+      "spo2": 94,
+      "sleep": 7.6,
+      "steps": 9518,
+      "stress": 31,
+      "anomaly": [
+        "spo2"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "restingHr": 68,
+      "avgHr": 79,
+      "hrv": 54,
+      "spo2": 98,
+      "sleep": 7.9,
+      "steps": 5312,
+      "stress": 31,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-09",
+      "restingHr": 65,
+      "avgHr": 77,
+      "hrv": 51,
+      "spo2": 98,
+      "sleep": 6.4,
+      "steps": 6227,
+      "stress": 34,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-10",
+      "restingHr": 64,
+      "avgHr": 76,
+      "hrv": 54,
+      "spo2": 97,
+      "sleep": 6.3,
+      "steps": 9370,
+      "stress": 28,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-11",
+      "restingHr": 65,
+      "avgHr": 74,
+      "hrv": 51,
+      "spo2": 97,
+      "sleep": 6.2,
+      "steps": 8557,
+      "stress": 41,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-12",
+      "restingHr": 66,
+      "avgHr": 80,
+      "hrv": 55,
+      "spo2": 98,
+      "sleep": 4.6,
+      "steps": 7441,
+      "stress": 58,
+      "anomaly": [
+        "sleep"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "restingHr": 65,
+      "avgHr": 76,
+      "hrv": 48,
+      "spo2": 98,
+      "sleep": 7.5,
+      "steps": 6913,
+      "stress": 32,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-14",
+      "restingHr": 67,
+      "avgHr": 79,
+      "hrv": 49,
+      "spo2": 97,
+      "sleep": 8,
+      "steps": 6707,
+      "stress": 37,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-15",
+      "restingHr": 67,
+      "avgHr": 82,
+      "hrv": 48,
+      "spo2": 97,
+      "sleep": 7.4,
+      "steps": 4476,
+      "stress": 29,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-16",
+      "restingHr": 67,
+      "avgHr": 78,
+      "hrv": 53,
+      "spo2": 98,
+      "sleep": 6.3,
+      "steps": 7318,
+      "stress": 31,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-17",
+      "restingHr": 66,
+      "avgHr": 77,
+      "hrv": 51,
+      "spo2": 97,
+      "sleep": 6.2,
+      "steps": 6391,
+      "stress": 38,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-18",
+      "restingHr": 74,
+      "avgHr": 86,
+      "hrv": 40,
+      "spo2": 98,
+      "sleep": 6.1,
+      "steps": 9133,
+      "stress": 57,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-19",
+      "restingHr": 75,
+      "avgHr": 88,
+      "hrv": 34,
+      "spo2": 98,
+      "sleep": 6.7,
+      "steps": 7239,
+      "stress": 56,
+      "anomaly": [
+        "heartRate",
+        "hrv"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "restingHr": 72,
+      "avgHr": 86,
+      "hrv": 39,
+      "spo2": 97,
+      "sleep": 7.5,
+      "steps": 6146,
+      "stress": 56,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-21",
+      "restingHr": 73,
+      "avgHr": 88,
+      "hrv": 39,
+      "spo2": 97,
+      "sleep": 7.8,
+      "steps": 7491,
+      "stress": 60,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-22",
+      "restingHr": 66,
+      "avgHr": 79,
+      "hrv": 52,
+      "spo2": 97,
+      "sleep": 7.8,
+      "steps": 3945,
+      "stress": 35,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-23",
+      "restingHr": 65,
+      "avgHr": 77,
+      "hrv": 51,
+      "spo2": 97,
+      "sleep": 6.6,
+      "steps": 7734,
+      "stress": 36,
+      "anomaly": []
+    },
+    {
+      "date": "2026-11-24",
+      "restingHr": 64,
+      "avgHr": 73,
+      "hrv": 53,
+      "spo2": 98,
+      "sleep": 6,
+      "steps": 8887,
+      "stress": 29,
+      "anomaly": []
+    }
+  ],
+  "anomalies": [
+    {
+      "id": "a1",
+      "metric": "heartRate",
+      "date": "2026-11-19",
+      "title": "Resting HR +9 bpm",
+      "detail": "Resting HR +9 bpm vs your 2-week baseline (66 bpm). Seen with poor sleep, stress, dehydration or the start of an infection.",
+      "severity": "watch"
+    },
+    {
+      "id": "a2",
+      "metric": "hrv",
+      "date": "2026-11-19",
+      "title": "HRV dropped 35%",
+      "detail": "HRV 34 ms vs your usual 52 ms. Low HRV often follows short sleep, illness or heavy training. It recovered partly by 22 Nov.",
+      "severity": "watch"
+    },
+    {
+      "id": "a3",
+      "metric": "sleep",
+      "date": "2026-11-12",
+      "title": "Only 4.6 h of sleep",
+      "detail": "2.5 h less than your weekly average. One short night is normal; a pattern is worth fixing.",
+      "severity": "info"
+    },
+    {
+      "id": "a4",
+      "metric": "spo2",
+      "date": "2026-11-07",
+      "title": "SpO₂ reading of 94%",
+      "detail": "A single low reading, likely from a loose watch strap. Your other readings are 97–98%. Recheck if you feel breathless.",
+      "severity": "info"
+    }
+  ],
+  "hourly": [
+    {
+      "hour": "00:00",
+      "hr": 58
+    },
+    {
+      "hour": "01:00",
+      "hr": 60
+    },
+    {
+      "hour": "02:00",
+      "hr": 63
+    },
+    {
+      "hour": "03:00",
+      "hr": 58
+    },
+    {
+      "hour": "04:00",
+      "hr": 53
+    },
+    {
+      "hour": "05:00",
+      "hr": 59
+    },
+    {
+      "hour": "06:00",
+      "hr": 69
+    },
+    {
+      "hour": "07:00",
+      "hr": 70
+    },
+    {
+      "hour": "08:00",
+      "hr": 69
+    },
+    {
+      "hour": "09:00",
+      "hr": 77
+    },
+    {
+      "hour": "10:00",
+      "hr": 81
+    },
+    {
+      "hour": "11:00",
+      "hr": 81
+    },
+    {
+      "hour": "12:00",
+      "hr": 82
+    },
+    {
+      "hour": "13:00",
+      "hr": 79
+    },
+    {
+      "hour": "14:00",
+      "hr": 74
+    },
+    {
+      "hour": "15:00",
+      "hr": 80
+    },
+    {
+      "hour": "16:00",
+      "hr": 76
+    },
+    {
+      "hour": "17:00",
+      "hr": 79
+    },
+    {
+      "hour": "18:00",
+      "hr": 107
+    },
+    {
+      "hour": "19:00",
+      "hr": 74
+    },
+    {
+      "hour": "20:00",
+      "hr": 75
+    },
+    {
+      "hour": "21:00",
+      "hr": 78
+    },
+    {
+      "hour": "22:00",
+      "hr": 62
+    },
+    {
+      "hour": "23:00",
+      "hr": 68
+    }
+  ],
+  "haemoglobin": [
+    {
+      "date": "2026-10-27",
+      "low": 12.1,
+      "high": 12.9
+    },
+    {
+      "date": "2026-11-03",
+      "low": 11.9,
+      "high": 12.6
+    },
+    {
+      "date": "2026-11-10",
+      "low": 11.5,
+      "high": 12.2
+    },
+    {
+      "date": "2026-11-17",
+      "low": 11.1,
+      "high": 11.9
+    },
+    {
+      "date": "2026-11-24",
+      "low": 10.8,
+      "high": 11.6
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "activeProfileId": "self",
+  "profiles": [
+    { "id": "self", "relation": "Self", "relationHi": "स्वयं", "name": "Madhav", "fullName": "Madhav Sharma", "ageRange": "18–24", "age": 21, "sex": "Male", "district": "Bengaluru Urban", "state": "Karnataka", "abha": "91-4527-8830-1146", "initials": "MS", "color": "#0F766E",
+      "vitalityScore": 78, "insight": "Your resting heart rate is up this week.", "insightHi": "इस हफ़्ते आपकी आराम की धड़कन थोड़ी बढ़ी है।",
+      "offsets": { "hr": 0, "hrv": 0, "spo2": 0, "sleep": 0, "steps": 0, "stress": 0, "hb": 0 } },
+    { "id": "mother", "relation": "Mother", "relationHi": "माँ", "name": "Sunita", "fullName": "Sunita Sharma", "ageRange": "45–54", "age": 49, "sex": "Female", "district": "Bengaluru Urban", "state": "Karnataka", "abha": "91-2208-4471-9035", "initials": "SS", "color": "#B45309",
+      "vitalityScore": 71, "insight": "Haemoglobin estimates have been low for 3 weeks.", "insightHi": "पिछले 3 हफ़्तों से हीमोग्लोबिन का अनुमान कम है।",
+      "offsets": { "hr": 6, "hrv": -16, "spo2": -1, "sleep": -0.4, "steps": -2600, "stress": 6, "hb": -0.6 } },
+    { "id": "father", "relation": "Father", "relationHi": "पिता", "name": "Rajesh", "fullName": "Rajesh Sharma", "ageRange": "55–64", "age": 57, "sex": "Male", "district": "Bengaluru Urban", "state": "Karnataka", "abha": "91-6619-0384-2271", "initials": "RS", "color": "#4338CA",
+      "vitalityScore": 64, "insight": "Sleep is short and stress is high most weekdays.", "insightHi": "ज़्यादातर दिनों नींद कम और तनाव ज़्यादा है।",
+      "offsets": { "hr": 9, "hrv": -22, "spo2": -1, "sleep": -0.8, "steps": -3400, "stress": 12, "hb": 1.4 } }
+  ]
+}

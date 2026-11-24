@@ -1,0 +1,13 @@
+{
+  "placeholder": true,
+  "note": "PLACEHOLDER values for the prototype — not real NFHS-5 figures. Real data will come from the official NFHS-5 district fact sheets.",
+  "districts": [
+    { "id": "blr-u", "name": "Bengaluru Urban", "state": "Karnataka", "indicators": { "anaemiaWomen": 41, "anaemiaMen": 18, "diabetes": 16, "hypertension": 24, "obesity": 29 } },
+    { "id": "mys", "name": "Mysuru", "state": "Karnataka", "indicators": { "anaemiaWomen": 46, "anaemiaMen": 21, "diabetes": 13, "hypertension": 22, "obesity": 24 } },
+    { "id": "pune", "name": "Pune", "state": "Maharashtra", "indicators": { "anaemiaWomen": 52, "anaemiaMen": 23, "diabetes": 14, "hypertension": 23, "obesity": 27 } },
+    { "id": "lko", "name": "Lucknow", "state": "Uttar Pradesh", "indicators": { "anaemiaWomen": 49, "anaemiaMen": 20, "diabetes": 11, "hypertension": 21, "obesity": 22 } },
+    { "id": "pat", "name": "Patna", "state": "Bihar", "indicators": { "anaemiaWomen": 63, "anaemiaMen": 29, "diabetes": 9, "hypertension": 17, "obesity": 15 } },
+    { "id": "chn", "name": "Chennai", "state": "Tamil Nadu", "indicators": { "anaemiaWomen": 50, "anaemiaMen": 17, "diabetes": 19, "hypertension": 26, "obesity": 33 } }
+  ],
+  "national": { "anaemiaWomen": 57, "anaemiaMen": 25, "diabetes": 13, "hypertension": 22, "obesity": 23 }
+}

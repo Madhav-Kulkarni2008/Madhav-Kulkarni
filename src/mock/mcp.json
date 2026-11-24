@@ -1,0 +1,20 @@
+{
+  "server": { "name": "pocketvaidya-health", "transport": "stdio · local", "version": "0.1.0-prototype" },
+  "tools": [
+    { "name": "get_latest_vitals", "description": "Latest heart rate, HRV, SpO₂, sleep and steps", "enabled": true },
+    { "name": "get_trends", "description": "Daily trends for any metric over 7, 30 or 90 days", "enabled": true },
+    { "name": "find_anomalies", "description": "Readings that differ from your personal baseline", "enabled": true },
+    { "name": "doctor_summary", "description": "One-page summary to share with a doctor", "enabled": false },
+    { "name": "district_context", "description": "Health indicators for your district (NFHS-5 style)", "enabled": true }
+  ],
+  "clients": [
+    { "id": "claude", "name": "Claude Desktop", "kind": "AI assistant", "since": "12 Nov 2026", "scopes": ["get_latest_vitals", "get_trends", "find_anomalies"], "connected": true },
+    { "id": "clinic", "name": "Dr. Ananya Rao's clinic system", "kind": "Clinic EMR", "since": "20 Nov 2026", "scopes": ["doctor_summary", "get_latest_vitals"], "connected": true }
+  ],
+  "log": [
+    { "client": "Claude Desktop", "action": "read your trends", "tool": "get_trends", "when": "2 min ago" },
+    { "client": "Claude Desktop", "action": "checked for anomalies", "tool": "find_anomalies", "when": "2 min ago" },
+    { "client": "Dr. Ananya Rao's clinic system", "action": "read your latest vitals", "tool": "get_latest_vitals", "when": "Yesterday, 6:40 pm" },
+    { "client": "Claude Desktop", "action": "read your latest vitals", "tool": "get_latest_vitals", "when": "22 Nov, 9:12 am" }
+  ]
+}

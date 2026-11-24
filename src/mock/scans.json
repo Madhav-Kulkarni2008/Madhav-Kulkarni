@@ -1,0 +1,29 @@
+{
+  "pulse": {
+    "normal": { "bpm": 68, "hrv": 49, "spo2": 98, "stress": "Low", "stressScore": 31, "baseline": { "bpm": 66, "hrv": 52, "spo2": 98 }, "quality": "Good signal",
+      "explanation": "Your heart rate and HRV are close to your usual range. A steady rhythm was detected throughout the 30-second reading.",
+      "explanationHi": "आपकी धड़कन और HRV आपकी सामान्य सीमा के पास हैं। 30 सेकंड की रीडिंग में लय स्थिर रही।" },
+    "flagged": { "bpm": 84, "hrv": 31, "spo2": 96, "stress": "High", "stressScore": 68, "baseline": { "bpm": 66, "hrv": 52, "spo2": 98 }, "quality": "Good signal",
+      "explanation": "Your resting heart rate is 18 bpm above your baseline and HRV is lower than usual. This often happens with stress, poor sleep, caffeine or the start of an illness. Rest and re-check in a few hours.",
+      "explanationHi": "आपकी आराम की धड़कन सामान्य से 18 bpm ज़्यादा है और HRV कम है। तनाव, कम नींद, कैफ़ीन या बीमारी की शुरुआत में ऐसा होता है। आराम करें और कुछ घंटों बाद दोबारा जाँचें।" }
+  },
+  "anaemia": {
+    "flagged": { "low": 10.8, "high": 11.6, "flag": "Possibly low", "confidence": "Moderate", "normalRange": "13.0–17.0 g/dL (adult male)",
+      "explanation": "The colour of your inner eyelid suggests your haemoglobin may be below the normal range. Low haemoglobin (anaemia) is common in India and is often caused by low iron. Only a blood test can confirm it.",
+      "explanationHi": "आपकी निचली पलक के रंग से लगता है कि हीमोग्लोबिन सामान्य से कम हो सकता है। भारत में एनीमिया आम है और अक्सर आयरन की कमी से होता है। केवल ब्लड टेस्ट से पुष्टि हो सकती है।" },
+    "normal": { "low": 13.6, "high": 14.4, "flag": "Within range", "confidence": "Moderate", "normalRange": "13.0–17.0 g/dL (adult male)",
+      "explanation": "The colour of your inner eyelid is consistent with haemoglobin in the normal range. Keep eating iron-rich foods like greens, dal and jaggery.",
+      "explanationHi": "आपकी पलक का रंग सामान्य हीमोग्लोबिन से मेल खाता है। हरी सब्ज़ियाँ, दाल और गुड़ जैसे आयरन-युक्त खाने जारी रखें।" },
+    "labs": [
+      { "name": "Thyrocare Collection Centre", "area": "Koramangala 5th Block", "distance": "1.2 km", "price": 199, "homeVisit": true },
+      { "name": "Govt. Urban PHC, Ejipura", "area": "Ejipura", "distance": "2.0 km", "price": 0, "homeVisit": false },
+      { "name": "Neuberg Anand Diagnostics", "area": "Indiranagar", "distance": "3.4 km", "price": 249, "homeVisit": true }
+    ]
+  },
+  "cough": {
+    "normal": { "count": 4, "pattern": "Dry", "risk": "Low", "duration": 15, "recommendation": "Your cough sounds dry and short, which is common with a cold, dust or allergies. Drink warm fluids. See a doctor if it lasts more than 2 weeks.",
+      "recommendationHi": "आपकी खाँसी सूखी और छोटी है, जो सर्दी, धूल या एलर्जी में आम है। गर्म पानी पिएँ। 2 हफ़्ते से ज़्यादा रहे तो डॉक्टर को दिखाएँ।" },
+    "flagged": { "count": 5, "pattern": "Wet", "risk": "Elevated", "duration": 15, "recommendation": "Your cough sounds wet and deep. Patterns like this can appear with chest infections, asthma or TB. If you have had a cough for more than 2 weeks, fever or night sweats, get a free TB test at your nearest government health centre.",
+      "recommendationHi": "आपकी खाँसी गीली और गहरी है। ऐसा छाती के संक्रमण, अस्थमा या टीबी में हो सकता है। 2 हफ़्ते से ज़्यादा खाँसी, बुख़ार या रात में पसीना हो तो नज़दीकी सरकारी केंद्र पर मुफ़्त टीबी जाँच कराएँ।" }
+  }
+}

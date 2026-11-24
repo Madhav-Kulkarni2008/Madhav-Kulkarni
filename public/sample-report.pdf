@@ -1,0 +1,59 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1617 >>
+stream
+BT
+/F2 18 Tf 1 0 0 1 56 790 Tm (PocketVaidya Health Summary) Tj
+/F1 10 Tf 1 0 0 1 56 763 Tm (Generated 24 Nov 2026 - screening data, not a diagnosis. PROTOTYPE - MOCK DATA.) Tj
+/F1 11 Tf 1 0 0 1 56 744 Tm () Tj
+/F2 12 Tf 1 0 0 1 56 724 Tm (Patient: Madhav Sharma   Age/Sex: 21 / M   District: Bengaluru Urban) Tj
+/F1 11 Tf 1 0 0 1 56 703 Tm (ABHA: 91-4527-8830-1146) Tj
+/F1 11 Tf 1 0 0 1 56 683 Tm () Tj
+/F2 12 Tf 1 0 0 1 56 663 Tm (Latest readings) Tj
+/F1 11 Tf 1 0 0 1 56 642 Tm (Resting heart rate ........ 66 bpm   \(baseline 66\)) Tj
+/F1 11 Tf 1 0 0 1 56 622 Tm (HRV \(RMSSD\) ............... 46 ms    \(baseline 52\)) Tj
+/F1 11 Tf 1 0 0 1 56 602 Tm (SpO2 ...................... 98 %     \(95-100\)) Tj
+/F1 11 Tf 1 0 0 1 56 582 Tm (Sleep \(7-day avg\) ......... 6.7 h    \(7-9 h\)) Tj
+/F1 11 Tf 1 0 0 1 56 562 Tm (Haemoglobin \(photo est.\) .. 10.8-11.6 g/dL \(13-17\)) Tj
+/F1 11 Tf 1 0 0 1 56 542 Tm (Haemoglobin \(lab 20 Nov\) .. 11.4 g/dL \(13-17\)) Tj
+/F1 11 Tf 1 0 0 1 56 522 Tm (Fasting glucose \(lab\) ..... 104 mg/dL \(70-99\)) Tj
+/F1 11 Tf 1 0 0 1 56 502 Tm () Tj
+/F2 12 Tf 1 0 0 1 56 482 Tm (Flags for review) Tj
+/F1 11 Tf 1 0 0 1 56 461 Tm (- Haemoglobin below range; downward trend over 4 weeks.) Tj
+/F1 11 Tf 1 0 0 1 56 441 Tm (- Resting HR +9 bpm and HRV -35% vs baseline on 19 Nov; partially recovered.) Tj
+/F1 11 Tf 1 0 0 1 56 421 Tm (- Fasting glucose 104 mg/dL \(prediabetes range\).) Tj
+/F1 11 Tf 1 0 0 1 56 401 Tm () Tj
+/F1 9 Tf 1 0 0 1 56 381 Tm (Screening, not diagnosis. See a doctor if concerned. Values from phone sensors are estimates.) Tj
+ET
+0.06 0.46 0.43 RG 2 w 56 770 m 539 770 l S
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2064
+%%EOF

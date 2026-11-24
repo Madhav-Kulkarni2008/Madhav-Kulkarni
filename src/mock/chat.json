@@ -1,0 +1,22 @@
+{
+  "greeting": { "en": "Namaste Madhav! I can explain your readings, trends and reports. I run on your phone, so nothing you ask leaves this device.", "hi": "नमस्ते माधव! मैं आपकी रीडिंग, ट्रेंड और रिपोर्ट समझा सकता हूँ। मैं आपके फ़ोन पर चलता हूँ, इसलिए आपका कोई भी सवाल इस डिवाइस से बाहर नहीं जाता।" },
+  "fallback": { "en": "I'm a prototype, so I can only answer a few questions for now. Try one of the suggestions below.", "hi": "मैं एक प्रोटोटाइप हूँ, इसलिए अभी कुछ ही सवालों के जवाब दे सकता हूँ। नीचे दिए सुझावों में से कोई आज़माएँ।" },
+  "qa": [
+    { "id": "hrv", "keywords": ["hrv", "variability", "एचआरवी"],
+      "q": { "en": "Why is my HRV low?", "hi": "मेरा HRV कम क्यों है?" },
+      "a": { "en": "Your HRV fell to 34 ms on 19 Nov, about 35% below your usual 52 ms. On the same days your resting heart rate rose to 75 bpm and you slept about 6 hours on weeknights.\n\nCommon causes are short sleep, stress, a late heavy meal, alcohol or the start of a cold. It has already recovered to 46 ms.\n\nTry: 7–8 hours of sleep for 3 nights and an easy walk instead of hard exercise. If it stays low for over a week with fever or tiredness, see a doctor.",
+             "hi": "19 नवंबर को आपका HRV 34 ms तक गिरा, जो आपके सामान्य 52 ms से लगभग 35% कम है। उन्हीं दिनों आपकी आराम की धड़कन 75 bpm तक बढ़ी और हफ़्ते के दिनों में नींद लगभग 6 घंटे रही।\n\nआम कारण हैं: कम नींद, तनाव, देर रात भारी खाना, शराब या सर्दी की शुरुआत। अब यह 46 ms तक सुधर चुका है।\n\nसुझाव: 3 रात 7–8 घंटे सोएँ और भारी व्यायाम की जगह हल्की सैर करें। अगर एक हफ़्ते से ज़्यादा कम रहे और बुख़ार या थकान हो, तो डॉक्टर को दिखाएँ।" } },
+    { "id": "hb", "keywords": ["haemoglobin", "hemoglobin", "hb", "anaemia", "anemia", "हीमोग्लोबिन", "खून"],
+      "q": { "en": "Is my haemoglobin okay?", "hi": "क्या मेरा हीमोग्लोबिन ठीक है?" },
+      "a": { "en": "Your latest photo estimate is 10.8–11.6 g/dL and your lab report from 20 Nov shows 11.4 g/dL. For adult men the normal range is 13–17 g/dL, so this is likely mild anaemia.\n\nIt has been falling slowly over the past month. Iron-rich foods (spinach, rajma, chana, jaggery, eggs) and vitamin C with meals help absorption.\n\nPlease see a doctor — they may test iron and B12 and suggest supplements. I've added this to your doctor report.",
+             "hi": "आपका ताज़ा फ़ोटो अनुमान 10.8–11.6 g/dL है और 20 नवंबर की लैब रिपोर्ट में 11.4 g/dL है। वयस्क पुरुषों के लिए सामान्य सीमा 13–17 g/dL है, इसलिए यह हल्का एनीमिया हो सकता है।\n\nपिछले महीने से यह धीरे-धीरे घट रहा है। आयरन-युक्त खाना (पालक, राजमा, चना, गुड़, अंडे) और खाने के साथ विटामिन C मदद करते हैं।\n\nकृपया डॉक्टर से मिलें — वे आयरन और B12 की जाँच और सप्लीमेंट की सलाह दे सकते हैं। मैंने इसे आपकी डॉक्टर रिपोर्ट में जोड़ दिया है।" } },
+    { "id": "sleep", "keywords": ["sleep", "tired", "नींद", "थकान"],
+      "q": { "en": "How is my sleep?", "hi": "मेरी नींद कैसी है?" },
+      "a": { "en": "You average 6.3 hours on weeknights and 7.6 hours on weekends — about 1.2 hours less on weeknights. The shortest night was 4.6 hours on 12 Nov.\n\nA regular bedtime, no screens 30 minutes before bed and less tea after 4 pm can help.",
+             "hi": "हफ़्ते के दिनों में आप औसतन 6.3 घंटे और सप्ताहांत में 7.6 घंटे सोते हैं — यानी हफ़्ते में लगभग 1.2 घंटे कम। सबसे कम नींद 12 नवंबर को 4.6 घंटे रही।\n\nरोज़ एक समय पर सोना, सोने से 30 मिनट पहले स्क्रीन बंद करना और शाम 4 बजे के बाद कम चाय मदद कर सकते हैं।" } },
+    { "id": "doctor", "keywords": ["doctor", "worry", "serious", "डॉक्टर", "चिंता"],
+      "q": { "en": "Should I see a doctor?", "hi": "क्या मुझे डॉक्टर को दिखाना चाहिए?" },
+      "a": { "en": "Yes, a routine visit is a good idea — not urgent. Two things are worth discussing: low haemoglobin (11.4 g/dL) and slightly high fasting glucose (104 mg/dL).\n\nGo urgently if you have chest pain, fainting, severe breathlessness or blood in cough. I can prepare a one-page doctor report for you.",
+             "hi": "हाँ, सामान्य जाँच के लिए जाना अच्छा रहेगा — यह आपातकालीन नहीं है। दो बातें बतानी चाहिए: कम हीमोग्लोबिन (11.4 g/dL) और थोड़ा बढ़ा हुआ फ़ास्टिंग ग्लूकोज़ (104 mg/dL)।\n\nसीने में दर्द, बेहोशी, तेज़ साँस फूलना या खाँसी में खून हो तो तुरंत जाएँ। मैं आपके लिए एक पेज की डॉक्टर रिपोर्ट बना सकता हूँ।" } }
+  ]
+}

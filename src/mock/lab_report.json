@@ -1,0 +1,13 @@
+{
+  "lab": "Sample Diagnostics, Bengaluru",
+  "patient": "Madhav Sharma",
+  "date": "2026-11-20",
+  "values": [
+    { "id": "hb", "name": "Haemoglobin", "value": 11.4, "unit": "g/dL", "low": 13.0, "high": 17.0, "flag": "low", "explain": "Lower than normal. This is anaemia — often from low iron, B12 or folate. A doctor may suggest iron tablets and a follow-up test.", "explainHi": "सामान्य से कम। यह एनीमिया है — अक्सर आयरन, B12 या फ़ोलेट की कमी से। डॉक्टर आयरन की गोलियाँ और दोबारा जाँच की सलाह दे सकते हैं।" },
+    { "id": "rbc", "name": "RBC count", "value": 4.2, "unit": "million/µL", "low": 4.5, "high": 5.9, "flag": "low", "explain": "Slightly fewer red blood cells than normal, which fits with the low haemoglobin.", "explainHi": "लाल रक्त कोशिकाएँ थोड़ी कम हैं, जो कम हीमोग्लोबिन से मेल खाता है।" },
+    { "id": "wbc", "name": "WBC count", "value": 7800, "unit": "/µL", "low": 4000, "high": 11000, "flag": "normal", "explain": "Normal. No sign of infection from this value.", "explainHi": "सामान्य। इस मान से संक्रमण का कोई संकेत नहीं।" },
+    { "id": "plt", "name": "Platelets", "value": 245000, "unit": "/µL", "low": 150000, "high": 410000, "flag": "normal", "explain": "Normal. Your blood clots as it should.", "explainHi": "सामान्य। आपका खून ठीक से जमता है।" },
+    { "id": "glu", "name": "Fasting glucose", "value": 104, "unit": "mg/dL", "low": 70, "high": 99, "flag": "high", "explain": "Slightly high (100–125 is called prediabetes range). Less sugar, more walking and a re-test in 3 months is a common next step.", "explainHi": "थोड़ा ज़्यादा (100–125 को प्रीडायबिटीज़ कहते हैं)। कम चीनी, ज़्यादा चलना और 3 महीने बाद दोबारा जाँच आम सलाह है।" },
+    { "id": "chol", "name": "Total cholesterol", "value": 178, "unit": "mg/dL", "low": 0, "high": 200, "flag": "normal", "explain": "Normal (below 200 is desirable).", "explainHi": "सामान्य (200 से कम अच्छा है)।" }
+  ]
+}
